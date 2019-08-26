@@ -1,0 +1,39 @@
+@import "bootstrap"; 
+
+body 
+{
+  background: image_url('pink_dust.png');
+}
+
+h1
+{
+  color: white;
+}
+
+.container
+{
+  background:  white;
+  padding-top:  35px;
+  padding-bottom: 35px;
+  padding-right: auto;
+  padding-left: auto;
+  margin-top: 55px;
+  text-align: center;
+}
+.booyah_box
+{
+  -moz-box-shadow: 1px 1px 2px 0 #D0D0D0;
+  -webkit-box-shadow: 1px 1px 2px 0 #D0D0D0;
+  box-shadow: 1px 1px 2px 0 #D0D0D0;
+  background: #FFF;
+  border:1px solid #CCC;
+  border-color: #E4E4E4 #BEBEBD #BEBEBD #E4E4E4;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  padding: 20px;
+}
+
+.headline
+{
+  color: #000080;
+}
